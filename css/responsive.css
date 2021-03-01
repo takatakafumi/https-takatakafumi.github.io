@@ -1,0 +1,24 @@
+@media all and (max-width: 1000px) {
+  
+  
+}
+
+@media all and (max-width: 670px) {
+  .content{
+    display: block;
+    margin: 0 auto;
+  }
+  .credit-content{
+    margin: 0 auto; 
+    width: 100%;
+  }
+  .target-content{
+    width: 100%;
+    margin: 0 auto; 
+  }
+
+  .name p{
+    width: 100%;
+    text-align: center;
+  }
+}

@@ -1,0 +1,99 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
+.container{
+  max-width: 1170px;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.main-contents{
+  background-color: tomato;
+  padding: 250px 0 250px 0;
+  text-align: center;
+  margin: 0 auto;
+}
+.main-contents h1{
+  color: white;
+  opacity: 0.8;
+  border-bottom: 2px solid #fff;
+}
+
+.twitter{
+  padding-top: 50px;
+  font-size: 50px;
+}
+
+.about {
+  padding-top: 50px;
+}
+
+.about h1{
+  font-size: 50px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+.img-content{
+  text-align: center;
+}
+.img-content img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  
+}
+
+
+.name{
+  padding-top: 25px;
+}
+.name h2{
+  padding-top: 25px;
+  text-align: center;
+}
+
+.name p{
+  margin: 0 auto;
+  width: 25%;
+}
+
+.content{
+  text-align: center;
+  display: flex;
+  padding-top: 25px;
+}
+.credit-content{
+  width: 50%;
+}
+.credit-content ul{
+  list-style: none;
+  padding: 0;
+}
+
+.target-content{
+  width: 50%;
+}
+.target-content ul{
+  list-style: none;
+  padding: 0;
+}
+.develop{
+  text-align: center;
+  height: 500px;
+  padding-top: 50px;
+}
+
+.develop h1{
+  font-size: 50px;
+}
+
+.develop h2{
+  padding-top: 50px;
+}
